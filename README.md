@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/venkataraopukkalla/EmpolyeManagement-System.git
+   git clone https://github.com/venkataraopukkalla/EmpolyeManagement-System-API.git
 
 2.Open the project in your IDE.
 
