@@ -23,10 +23,10 @@ Before you begin, ensure you have the following installed:
 
 2.Open the project in your IDE.
 
-3.Build and run the project using Maven or your IDE's build tools.   
+3.Build and run the project using Maven or your IDE's build tools:  
 
    ```bash
    mvn spring-boot:run
-   The API will be available athttp://localhost:8080.
+   The API will be available at http://localhost:8080.
 
 
